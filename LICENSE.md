@@ -1,4 +1,4 @@
-# 
+# automatic liquidation sniper bot Module | market-making + price-monitoring offers the most advanced liquidation sniper bot, with market-making and price-monitoring. Ideal for
 
 
 
